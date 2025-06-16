@@ -1,3 +1,14 @@
-# the-medical-mission-landing-page
-This is a webpage that is meant to highlight the Enugu USA medical mission and raise money for their causes.
-Enugu USA aims to help small underprivileged villages in Western Nigeria by providing free medical supplies as well as funding the rebuilding of schools in these areas. 
+# <h1> Enugu USA Medical Mission — Landing Page </h1>
+This is the official landing page for the Enugu USA Medical Mission, a nonprofit initiative focused on delivering free healthcare and educational support to underserved communities in Enugu State, Nigeria.
+# Our goal is to:
+Share the mission and values of Enugu USA
+
+Highlight ongoing and past medical outreach efforts
+
+Encourage donations to support future missions
+
+Inform visitors about how they can get involved
+
+# Stack
+HTML/CSS 
+JavaScript 
